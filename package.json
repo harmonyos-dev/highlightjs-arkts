@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harmonyos-dev/highlightjs-arks/issues"
   },
-  "homepage": "https://github.com/harmonyos-dev/highlightjs-arks#readme"
+  "homepage": "https://github.com/harmonyos-dev/highlightjs-arks#readme",
+  "dependencies": {
+    "highlight.js": "^11.9.0"
+  }
 }
