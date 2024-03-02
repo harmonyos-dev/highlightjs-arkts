@@ -44,6 +44,7 @@ function testLanguage (language, testDir) {
 
 describe('ArkTS syntax highlighting', async () => {
   testLanguage('arkts', path.join(__dirname, 'markup'))
+
   it('should detectArkTS languages', async () => {
     var code = await readFile(path.join(__dirname, 'detect/arkts', 'default.txt'), 'utf-8')
     var actual = hljs.highlightAuto(code).language

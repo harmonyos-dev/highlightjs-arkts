@@ -4,7 +4,7 @@
   "description": "ArkTS highlight.js extension",
   "main": "src/languages/arkts.js",
   "scripts": {
-    "test": "node test/index.js"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -30,6 +30,7 @@
   },
   "devDependencies": {
     "glob": "^10.3.10",
+    "mocha": "^10.3.0",
     "should": "^13.2.3"
   }
 }
