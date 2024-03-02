@@ -1,6 +1,6 @@
 {
   "name": "@harmonyos-dev/highlightjs-arks",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ArkTS highlight.js extension",
   "main": "src/languages/arkts.js",
   "scripts": {
