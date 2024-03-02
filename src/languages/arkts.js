@@ -7,7 +7,7 @@ Author: Oleg Efimov <efimovov@gmail.com>
 /*
  Language: Groovy
  Author: Guillaume Laforge <glaforge@gmail.com>
- Description: Groovy programming language implementation inspired from Vsevolod's Java mode
+ Description: Groovy programming languages implementation inspired from Vsevolod's Java mode
  Website: https://groovy-lang.org
  */
 let ECMAScript = {
