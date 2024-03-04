@@ -1,5 +1,7 @@
 # Highlight.js ArkTS support
 
+# Deprecated in favor of [highlightjs-arkts](https://www.npmjs.com/package/@harmonyos-dev/highlightjs-arkts)
+
 The Highlight.js plugin for HarmonyOS's ArkTS
 
 Online Demo: https://harmonyos-dev.github.io/aigc-harmonyos-sample/
