@@ -10,14 +10,14 @@ Online Demo: https://harmonyos-dev.github.io/aigc-harmonyos-sample/
 <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"></script>
 <script
   type="text/javascript"
-  src="https://cdn.jsdelivr.net/npm/@harmonyos-dev/highlightjs-arks@0.0.2/src/languages/arkts.js"></script>
+  src="https://cdn.jsdelivr.net/npm/@harmonyos-dev/highlightjs-arkts@0.0.5/src/languages/arkts.js"></script>
 ```
 
 ## With Node
 
 ```javascript
 var hljs = require('highlightjs');
-var hljsArkts = require('@harmonyos-dev/highlightjs-arks');
+var hljsArkts = require('@harmonyos-dev/highlightjs-arkts');
 
 hljs.registerLanguage('arkts', hljsArkts);
 hljs.highlightAll();
