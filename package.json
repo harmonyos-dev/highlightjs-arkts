@@ -1,6 +1,6 @@
 {
-  "name": "@harmonyos-dev/highlightjs-arks",
-  "version": "0.0.4",
+  "name": "@harmonyos-dev/highlightjs-arkts",
+  "version": "0.0.5",
   "description": "ArkTS highlight.js extension",
   "main": "src/languages/arkts.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harmonyos-dev/highlightjs-arks.git"
+    "url": "git+https://github.com/harmonyos-dev/highlightjs-arkts.git"
   },
   "author": "h@phodal.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/harmonyos-dev/highlightjs-arks/issues"
+    "url": "https://github.com/harmonyos-dev/highlightjs-arkts/issues"
   },
   "keywords": [
     "arkts",
@@ -24,7 +24,7 @@
     "highlightjs",
     "highlight.js"
   ],
-  "homepage": "https://github.com/harmonyos-dev/highlightjs-arks#readme",
+  "homepage": "https://github.com/harmonyos-dev/highlightjs-arkts#readme",
   "dependencies": {
     "highlight.js": "^11.9.0"
   },
